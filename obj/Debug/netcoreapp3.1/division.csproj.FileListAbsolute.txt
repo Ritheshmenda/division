@@ -1,0 +1,13 @@
+C:\Users\Rithesh\source\repos\division\division\obj\Debug\netcoreapp3.1\division.csproj.AssemblyReference.cache
+C:\Users\Rithesh\source\repos\division\division\obj\Debug\netcoreapp3.1\division.AssemblyInfoInputs.cache
+C:\Users\Rithesh\source\repos\division\division\obj\Debug\netcoreapp3.1\division.AssemblyInfo.cs
+C:\Users\Rithesh\source\repos\division\division\obj\Debug\netcoreapp3.1\division.csproj.CoreCompileInputs.cache
+C:\Users\Rithesh\source\repos\division\division\bin\Debug\netcoreapp3.1\division.exe
+C:\Users\Rithesh\source\repos\division\division\bin\Debug\netcoreapp3.1\division.deps.json
+C:\Users\Rithesh\source\repos\division\division\bin\Debug\netcoreapp3.1\division.runtimeconfig.json
+C:\Users\Rithesh\source\repos\division\division\bin\Debug\netcoreapp3.1\division.runtimeconfig.dev.json
+C:\Users\Rithesh\source\repos\division\division\bin\Debug\netcoreapp3.1\division.dll
+C:\Users\Rithesh\source\repos\division\division\bin\Debug\netcoreapp3.1\division.pdb
+C:\Users\Rithesh\source\repos\division\division\obj\Debug\netcoreapp3.1\division.dll
+C:\Users\Rithesh\source\repos\division\division\obj\Debug\netcoreapp3.1\division.pdb
+C:\Users\Rithesh\source\repos\division\division\obj\Debug\netcoreapp3.1\division.genruntimeconfig.cache
